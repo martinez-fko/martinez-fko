@@ -2,7 +2,7 @@
    <h3 align="center">¡Hey 👋! Soy Francisco Martínez 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador Full Stack</strong> con +1 año experiencia.</p>
+<p align="center">Soy <strong>Desarrollador Full Stack</strong> con +2 año experiencia.</p>
 <p>Soy Ingeniero en Tecnologías de la Información, tengo 31 años y vivo en México, me apasiona la programación y el fútbol, estoy en constante crecimiento con las nuevas tecnologías, he adquirido habilidades y cualidades a lo largo de mi experiencia laboral.</p>
 
 ## Algunos proyectos
